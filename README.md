@@ -1,1 +1,1 @@
-# landusesceneclassification
+# LandUseClassificationDeployment
